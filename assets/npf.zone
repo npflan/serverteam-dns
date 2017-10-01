@@ -2,13 +2,13 @@ $ORIGIN npf.
 $TTL 600
 
 @	IN	SOA	ns1.npf.	hostmaster.npf. (
-						2017091701 ; Serial
-						300 ; Refresh
-						150 ; Retry
-						600 ; Expire
-						600) ; Minimum
+		2017091701 ; Serial
+		300 ; Refresh
+		150 ; Retry
+		600 ; Expire
+		600) ; Minimum
 
-				IN	NS	ns1.npf.
+IN	NS	ns1.npf.
 
 ns1				IN	A	10.96.5.3
 CISCO-CAPWAP-CONTROLLER		IN	A	10.0.1.10
@@ -580,3 +580,107 @@ zl2      IN      A      10.255.216.9
 zm1      IN      A      10.255.216.5
 
 zm2      IN      A      10.255.216.6
+
+billet   IN      A      10.255.253.4
+
+cast1.e3         IN      A      10.255.252.5
+
+cast1.e4         IN      A      10.255.251.2
+
+cast2.e3         IN      A      10.255.252.6
+
+cast2.e4         IN      A      10.255.251.3
+
+cast3.e3         IN      A      10.255.252.7
+
+cast3.e4         IN      A      10.255.251.4
+
+cast4.e3         IN      A      10.255.252.8
+
+cast5.e3         IN      A      10.255.252.9
+
+cr1      IN      A      10.255.254.14
+
+cr2      IN      A      10.255.254.15
+
+crew1    IN      A      10.255.254.2
+
+crew10   IN      A      10.255.254.11
+
+crew11   IN      A      10.255.254.12
+
+crew12   IN      A      10.255.254.13
+
+crew2    IN      A      10.255.254.3
+
+crew3    IN      A      10.255.254.4
+
+crew4    IN      A      10.255.254.5
+
+crew5    IN      A      10.255.254.6
+
+crew6    IN      A      10.255.254.7
+
+crew7    IN      A      10.255.254.8
+
+crew8    IN      A      10.255.254.9
+
+crew9    IN      A      10.255.254.10
+
+expo1.d5         IN      A      10.255.205.18
+
+expo1.e3         IN      A      10.255.252.2
+
+expo1.e4         IN      A      10.255.251.7
+
+expo2.d5         IN      A      10.255.205.19
+
+expo2.e3         IN      A      10.255.252.3
+
+expo2.e4         IN      A      10.255.251.8
+
+expo3.d5         IN      A      10.255.205.20
+
+expo3.e4         IN      A      10.255.251.9
+
+expo4.d5         IN      A      10.255.205.21
+
+gamecrew1        IN      A      10.255.206.4
+
+gamecrew2        IN      A      10.255.206.5
+
+gamecrew3        IN      A      10.255.206.6
+
+gamecrew4        IN      A      10.255.206.7
+
+gamecrew5        IN      A      10.255.206.9
+
+gamecrew6        IN      A      10.255.206.11
+
+gamecrew7        IN      A      10.255.206.13
+
+helpdesk1        IN      A      10.255.206.10
+
+helpdesk2        IN      A      10.255.206.12
+
+helpdesk3        IN      A      10.255.206.14
+
+magnutron        IN      A      10.255.252.4
+
+scene1   IN      A      10.255.251.5
+
+scene2   IN      A      10.255.251.6
+
+security         IN      A      10.255.254.16
+
+shop1    IN      A      10.255.253.2
+
+shop2    IN      A      10.255.253.3
+
+shop3    IN      A      10.255.253.5
+
+web1     IN      A      10.255.206.8
+
+youtube1         IN      A      10.255.212.14
+
+youtube2         IN      A      10.255.212.15
