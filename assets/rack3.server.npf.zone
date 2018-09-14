@@ -1,4 +1,4 @@
-$ORIGIN rack1.server.npf.
+$ORIGIN rack3.server.npf.
 $TTL 600
 
 @	IN	SOA	ns1.server.npf.	hostmaster.server.npf. (
