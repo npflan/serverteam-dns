@@ -11,6 +11,3 @@ $TTL 600
 	IN	NS	ns1.server.npf.
 
 ns1				IN	A	10.101.128.128
-kube-dns		IN 	A	10.101.128.10
-
-k8s				IN	NS	kube-dns
