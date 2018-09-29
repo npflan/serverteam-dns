@@ -1,0 +1,13 @@
+$ORIGIN srv.npf.dk.
+$TTL 600
+
+@	IN	SOA	ns.srv.npf.dk.	hostmaster.server.npf. (
+		2017091701 ; Serial
+		300 ; Refresh
+		150 ; Retry
+		600 ; Expire
+		600) ; Minimum
+
+	IN	NS	ns.srv.npf.dk.
+
+ns				IN	A	10.101.128.128

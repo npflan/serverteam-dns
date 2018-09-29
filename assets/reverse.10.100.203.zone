@@ -1,0 +1,49 @@
+$TTL    604800
+@       IN      SOA     ns1.server.npf. hostmaster.server.npf. (
+                              2         ; Serial
+                         604800         ; Refresh
+                          86400         ; Retry
+                        2419200         ; Expire
+                         604800 )       ; Negative Cache TTL
+;
+@       IN      NS      ns1.server.npf.
+
+101 IN PTR  top-ilo1.rack1.srv.minserver.dk.
+102 IN PTR  top-ilo2.rack1.srv.minserver.dk.
+103 IN PTR  top-ilo3.rack1.srv.minserver.dk.
+104 IN PTR  top-ilo4.rack1.srv.minserver.dk.
+105 IN PTR  top-ilo5.rack1.srv.minserver.dk.
+106 IN PTR  top-ilo6.rack1.srv.minserver.dk.
+107 IN PTR  top-ilo7.rack1.srv.minserver.dk.
+108 IN PTR  top-ilo8.rack1.srv.minserver.dk.
+109 IN PTR  top-ilo9.rack1.srv.minserver.dk.
+110 IN PTR  top-ilo10.rack1.srv.minserver.dk.
+111 IN PTR  top-ilo11.rack1.srv.minserver.dk.
+112 IN PTR  top-ilo12.rack1.srv.minserver.dk.
+113 IN PTR  top-ilo13.rack1.srv.minserver.dk.
+114 IN PTR  top-ilo14.rack1.srv.minserver.dk.
+115 IN PTR  top-ilo15.rack1.srv.minserver.dk.
+116 IN PTR  top-ilo16.rack1.srv.minserver.dk.
+
+121 IN PTR  top-oa1.rack1.srv.minserver.dk.
+122 IN PTR  top-oa2.rack1.srv.minserver.dk.
+
+201 IN PTR  bottom-ilo1.rack1.srv.minserver.dk.
+202 IN PTR  bottom-ilo2.rack1.srv.minserver.dk.
+203 IN PTR  bottom-ilo3.rack1.srv.minserver.dk.
+204 IN PTR  bottom-ilo4.rack1.srv.minserver.dk.
+205 IN PTR  bottom-ilo5.rack1.srv.minserver.dk.
+206 IN PTR  bottom-ilo6.rack1.srv.minserver.dk.
+207 IN PTR  bottom-ilo7.rack1.srv.minserver.dk.
+208 IN PTR  bottom-ilo8.rack1.srv.minserver.dk.
+209 IN PTR  bottom-ilo9.rack1.srv.minserver.dk.
+210 IN PTR  bottom-ilo10.rack1.srv.minserver.dk.
+211 IN PTR  bottom-ilo11.rack1.srv.minserver.dk.
+212 IN PTR  bottom-ilo12.rack1.srv.minserver.dk.
+213 IN PTR  bottom-ilo13.rack1.srv.minserver.dk.
+214 IN PTR  bottom-ilo14.rack1.srv.minserver.dk.
+215 IN PTR  bottom-ilo15.rack1.srv.minserver.dk.
+216 IN PTR  bottom-ilo16.rack1.srv.minserver.dk.
+
+221 IN PTR  bottom-oa1.rack1.srv.minserver.dk.
+222 IN PTR  bottom-oa2.rack1.srv.minserver.dk.
