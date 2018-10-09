@@ -12,3 +12,4 @@ $TTL 600
 
 ns1				IN	A	10.101.128.128
 oneview			IN	A	10.100.201.41
+service01		IN	A	10.100.201.40
