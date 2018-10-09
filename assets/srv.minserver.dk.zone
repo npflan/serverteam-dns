@@ -33,7 +33,6 @@ telemetry.node IN SRV 0 0 9100 ip-101-82.rack1.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-101-83.rack1.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-101-84.rack1.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-101-85.rack1.srv.minserver.dk.
-telemetry.node IN SRV 0 0 9100 ip-101-87.rack1.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-101-88.rack1.srv.minserver.dk.
 
 telemetry.node IN SRV 0 0 9100 ip-102-50.rack2.srv.minserver.dk.
