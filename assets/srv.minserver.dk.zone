@@ -33,7 +33,6 @@ telemetry.node IN SRV 0 0 9100 ip-101-82.rack1.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-101-83.rack1.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-101-84.rack1.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-101-85.rack1.srv.minserver.dk.
-telemetry.node IN SRV 0 0 9100 ip-101-86.rack1.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-101-87.rack1.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-101-88.rack1.srv.minserver.dk.
 
@@ -67,10 +66,8 @@ telemetry.node IN SRV 0 0 9100 ip-102-84.rack2.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-103-55.rack3.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-103-56.rack3.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-103-57.rack3.srv.minserver.dk.
-telemetry.node IN SRV 0 0 9100 ip-103-58.rack3.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-103-59.rack3.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-103-60.rack3.srv.minserver.dk.
-telemetry.node IN SRV 0 0 9100 ip-103-61.rack3.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-103-62.rack3.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-103-63.rack3.srv.minserver.dk.
 telemetry.node IN SRV 0 0 9100 ip-103-64.rack3.srv.minserver.dk.
