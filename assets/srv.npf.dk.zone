@@ -13,6 +13,7 @@ $TTL 600
 ns				IN	A	10.101.128.128
 
 minecraft		IN	A	10.100.101.74
+teamspeak		IN	A	10.100.101.74
 
 1000 IN A 10.100.0.0
 1001 IN A 10.100.0.1

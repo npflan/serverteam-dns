@@ -422,3 +422,30 @@ ansible IN SRV 0 0 22 repo1
 ansible IN SRV 0 0 22 repo2
 ansible IN SRV 0 0 22 repo3
 ansible IN SRV 0 0 22 minecraft
+
+
+elasticsearch IN SRV 0 0 22 ip-101-80.rack1
+elasticsearch IN SRV 0 0 22 ip-102-83.rack2
+elasticsearch IN SRV 0 0 22 ip-102-68.rack2
+elasticsearch IN SRV 0 0 22 ip-102-78.rack2
+elasticsearch IN SRV 0 0 22 ip-103-144.rack3
+elasticsearch IN SRV 0 0 22 ip-103-69.rack3
+elasticsearch IN SRV 0 0 22 ip-103-138.rack3
+elasticsearch IN SRV 0 0 22 ip-103-143.rack3
+
+elasticsearch-master IN SRV 0 0 22 ip-103-144.rack3
+elasticsearch-master IN SRV 0 0 22 ip-103-138.rack3
+
+elasticsearch-data IN SRV 0 0 22 ip-101-80.rack1
+elasticsearch-data IN SRV 0 0 22 ip-102-83.rack2
+elasticsearch-data IN SRV 0 0 22 ip-102-68.rack2
+elasticsearch-data IN SRV 0 0 22 ip-102-78.rack2
+elasticsearch-data IN SRV 0 0 22 ip-103-69.rack3
+elasticsearch-data IN SRV 0 0 22 ip-103-143.rack3
+
+es-cluster IN A 10.100.101.80
+es-cluster IN A 10.100.102.83
+es-cluster IN A 10.100.102.68
+es-cluster IN A 10.100.102.78
+es-cluster IN A 10.100.103.69
+es-cluster IN A 10.100.103.143
