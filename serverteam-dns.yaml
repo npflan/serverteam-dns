@@ -23,7 +23,7 @@ spec:
         run: serverteam-dns
     spec:
       containers:
-      - image: docker.io/npflan/serverteam-dns:kube-dns
+      - image: docker.io/npflan/serverteam-dns:2019-weekend3
         imagePullPolicy: Always
         name: serverteam-dns
         ports:
