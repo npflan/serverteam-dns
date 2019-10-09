@@ -1,12 +1,12 @@
 $TTL    604800
-@       IN      SOA     serverteam-dns.default.svc.npf.dk. hostmaster.server.npf. (
+@       IN      SOA     ddns.dhcp.svc.npf.dk. hostmaster.server.npf. (
                               2         ; Serial
                          604800         ; Refresh
                           86400         ; Retry
                         2419200         ; Expire
                          604800 )       ; Negative Cache TTL
 ;
-@       IN      NS      serverteam-dns.default.svc.npf.dk.
+@       IN      NS      ddns.dhcp.svc.npf.dk.
 
 101 IN PTR  top-ilo1.rack1.srv.minserver.dk.
 102 IN PTR  top-ilo2.rack1.srv.minserver.dk.
