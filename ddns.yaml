@@ -16,8 +16,8 @@ spec:
         app: ddns
     spec:
       containers:
-      - image: docker.io/npflan/ddns:2019-weekend3
-        imagePullPolicy: Always
+      - image: npflan/serverteam-dns:ddns-only-v6
+        imagePullPolicy: IfNotPresent
         name: ddns
         ports:
         - containerPort: 53
@@ -32,7 +32,7 @@ metadata:
   labels:
     app: ddns
   name: ddns
-  namespace: default
+  namespace: dhcp
 spec:
   clusterIP: 10.101.128.128
   ports:
